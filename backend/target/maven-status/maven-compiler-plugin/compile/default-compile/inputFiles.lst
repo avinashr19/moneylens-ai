@@ -1,0 +1,8 @@
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/MoneyLensApplication.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/controller/StatementController.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/dto/AnalyzeResponse.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/model/CategorySummary.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/model/StatementSummary.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/model/Transaction.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/parser/PdfParserService.java
+/Users/avinashramakkapet/Documents/Avinash/projects/Repos/moneylens-ai/backend/src/main/java/io/moneylens/service/StatementService.java

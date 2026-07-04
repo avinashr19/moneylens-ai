@@ -1,0 +1,6 @@
+io/moneylens/service/StatementService.class
+io/moneylens/controller/StatementController.class
+io/moneylens/parser/PdfParserService.class
+io/moneylens/dto/AnalyzeResponse$AnalyzeResponseBuilder.class
+io/moneylens/dto/AnalyzeResponse.class
+io/moneylens/MoneyLensApplication.class
